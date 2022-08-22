@@ -1,0 +1,11 @@
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\bin\Debug\EasyGearBox.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\bin\Debug\EasyGearBox.exe
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\bin\Debug\EasyGearBox.pdb
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.csproj.AssemblyReference.cache
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\GearBox.EasyGearBox.resources
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.Properties.Resources.resources
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.csproj.GenerateResource.cache
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.exe
+C:\Users\Matvey\Documents\Visual Studio 2022\Projects\GearBox\GearBox\obj\Debug\EasyGearBox.pdb
